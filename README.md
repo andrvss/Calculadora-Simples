@@ -11,13 +11,13 @@ Este projeto se trata da elaboração de uma calculadora simples, com operaçõe
 </p>
 
 <p align="center">
-  <img alt="License" src="https://pixabay.com/pt/photos/calculadora-c%c3%a1lculo-seguro-finan%c3%a7a-385506/">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="projeto Habits" src="https://wallpaperaccess.com/full/4717731.jpg" width="100%">></img>
+  <img alt="projeto Calculadora" src="https://pixabay.com/images/id-385506/" width="100%">></img>
 </p>
 
 ## 🚀 Tecnologias
@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Uma calculadora simples com operações padrões e comuns de serem realizadas, criada para exercício de prática de linguagens de programação.
 
-- [Visite o projeto online aqui](https://andrvss.github.io/Calculadora-Simples/)
+- [Visite o projeto online aqui](https://andrvss.github.io//)
 
 
 ## :memo: Licença
