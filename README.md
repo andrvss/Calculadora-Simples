@@ -17,7 +17,7 @@ Este projeto se trata da elaboração de uma calculadora simples, com operaçõe
 <br>
 
 <p align="center">
-  <img alt="projeto Calculadora" src="https://pixabay.com/images/id-385506/" width="100%">></img>
+  <img alt="projeto Calculadora" src="https://user-images.githubusercontent.com/110691699/213948552-18e39bf5-3998-41e2-b0ad-82107acbcd80.jpg" width="100%">></img>
 </p>
 
 ## 🚀 Tecnologias
